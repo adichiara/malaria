@@ -111,7 +111,7 @@ body {
 
 .story-headline  {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 32px;
+    font-size: 26px;
     font-weight: bold;
     margin-top: 200px;
 }
@@ -119,14 +119,15 @@ body {
 .story-title {
     margin-top: 20px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: bold;
+    max-width: 720px;
 }
 
 .story-copy {
     margin-top: 20px;
     font-family: "Times New Roman", "Times", serif;
-    font-size: 16px;
+    font-size: 14px;
     max-width: 720px;
 }
 
@@ -150,7 +151,7 @@ li:first-child {
 .story-quote {
     margin-top: 20px;
     font-family: "Open Sans", Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 
 }
 
